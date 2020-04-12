@@ -1,0 +1,62 @@
+[
+  {
+    "rank": "1",
+    "title": "The Prestige",
+    "year": "2006",
+    "director": "Christopher Nolan"
+  },
+  {
+    "rank": "2",
+    "title": "Pulp Fiction",
+    "year": "1994",
+    "director": "Quentin Tarantino"
+  },
+  {
+    "rank": "3",
+    "title": "The Big Short",
+    "year": "2015",
+    "director": "Adam McKay"
+  },
+  {
+    "rank": "4",
+    "title": "Spotlight",
+    "year": "2015",
+    "director": "Tom McCarthy"
+  },
+  {
+    "rank": "5",
+    "title": "Whiplash",
+    "year": "2014",
+    "director": "Damien Chazelle"
+  },
+  {
+    "rank": "6",
+    "title": "Interstellar",
+    "year": "2014",
+    "director": "Christopher Nolan"
+  },
+  {
+    "rank": "7",
+    "title": "1917",
+    "year": "2019",
+    "director": "Sam Mendes"
+  },
+  {
+    "rank": "8",
+    "title": "The Dark Knight Rises",
+    "year": "2012",
+    "director": "Christopher Nolan"
+  },
+  {
+    "rank": "9",
+    "title": "Monos",
+    "year": "2019",
+    "director": "Alejandro Landes"
+  },
+  {
+    "rank": "10",
+    "title": "Roma",
+    "year": "2018",
+    "director": "Alfonso Cuarón"
+  }
+]
